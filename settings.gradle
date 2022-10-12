@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "pindah layout"
+rootProject.name = "test_2"
 include ':app'

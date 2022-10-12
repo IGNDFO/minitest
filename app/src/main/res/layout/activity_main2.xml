@@ -4,20 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity2">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="COBA MINI TEST"
-        android:id="@+id/t"
-        android:layout_centerInParent="true" />
-<Button
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:text="pindah"
-    android:id="@+id/pi"
-    android:layout_below="@+id/t"
-    android:layout_centerInParent="true"/>
+        android:text="hello world"
+        android:layout_centerInParent="true"
+        android:textSize="25dp"/>
 
 </RelativeLayout>

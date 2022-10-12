@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/marti/Documents/NANDO_PAB/pindahlayout/app/src/main/res/layout/activity_main.xml" value="0.176" />
-        <entry key="..\:/Users/marti/Documents/NANDO_PAB/pindahlayout/app/src/main/res/layout/activity_second.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/marti/Documents/NANDO_PAB/test_2/app/src/main/res/layout/activity_main.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/marti/Documents/NANDO_PAB/test_2/app/src/main/res/layout/activity_main2.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/marti/Documents/NANDO_PAB/test_2/app/src/main/res/layout/asu.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/marti/Documents/NANDO_PAB/test_2/app/src/main/res/layout/pindah.xml" value="0.1721311475409836" />
       </map>
     </option>
   </component>
